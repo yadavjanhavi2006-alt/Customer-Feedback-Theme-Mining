@@ -1,51 +1,51 @@
 Topic,Topic_Name,Rank,Keyword,Weight
-1,Food & Pet Products,1,food,0.6772755061342604
-1,Food & Pet Products,2,product,0.6739743206607984
-1,Food & Pet Products,3,br,0.6609947433956171
-1,Food & Pet Products,4,good,0.5897690736466962
-1,Food & Pet Products,5,one,0.5161362371889908
-1,Food & Pet Products,6,love,0.5147054358106319
-1,Food & Pet Products,7,like,0.5136185395441542
-1,Food & Pet Products,8,dog,0.4968002211189152
-1,Food & Pet Products,9,great,0.43685885955633635
-1,Food & Pet Products,10,taste,0.37057361270602285
-2,Chips & Snack Flavors,1,chip,1.8107803071790403
-2,Chips & Snack Flavors,2,bag,0.5547926314215741
-2,Chips & Snack Flavors,3,flavor,0.547307438245928
-2,Chips & Snack Flavors,4,salt,0.49271809456836396
-2,Chips & Snack Flavors,5,potato,0.48075147510657007
-2,Chips & Snack Flavors,6,kettle,0.3767232934752201
-2,Chips & Snack Flavors,7,vinegar,0.3309192216020357
-2,Chips & Snack Flavors,8,great,0.30330002828955777
-2,Chips & Snack Flavors,9,like,0.25203522118199156
-2,Chips & Snack Flavors,10,calorie,0.24430351243961254
-3,Tea & Beverages,1,tea,1.9149901081144765
-3,Tea & Beverages,2,green,0.42672702648925537
-3,Tea & Beverages,3,drink,0.26123284748326503
-3,Tea & Beverages,4,iced,0.24043000145878063
-3,Tea & Beverages,5,water,0.21402495643096603
-3,Tea & Beverages,6,like,0.17551277704331908
-3,Tea & Beverages,7,taste,0.1615231578813198
-3,Tea & Beverages,8,packet,0.15784975097810017
-3,Tea & Beverages,9,flavor,0.14263006757372634
-3,Tea & Beverages,10,br,0.14053184846015523
-4,Coffee Taste & Strength,1,coffee,1.4009955985902207
-4,Coffee Taste & Strength,2,taste,0.2556323630945548
-4,Coffee Taste & Strength,3,cup,0.23731899238660423
-4,Coffee Taste & Strength,4,bold,0.2249561655248865
-4,Coffee Taste & Strength,5,like,0.22407042075450895
-4,Coffee Taste & Strength,6,strong,0.2160318706381099
-4,Coffee Taste & Strength,7,dark,0.19824722224592953
-4,Coffee Taste & Strength,8,one,0.19796099952033078
-4,Coffee Taste & Strength,9,flavor,0.18657222850557745
-4,Coffee Taste & Strength,10,smooth,0.18630821778890125
-5,"Pancake, Waffle & Baking Mixes",1,mix,0.8649980378146683
-5,"Pancake, Waffle & Baking Mixes",2,waffle,0.8390109103679501
-5,"Pancake, Waffle & Baking Mixes",3,pancake,0.6251047302776244
-5,"Pancake, Waffle & Baking Mixes",4,make,0.27928455526836987
-5,"Pancake, Waffle & Baking Mixes",5,best,0.21184033864378035
-5,"Pancake, Waffle & Baking Mixes",6,easy,0.1820741107860456
-5,"Pancake, Waffle & Baking Mixes",7,add,0.1447233064080015
-5,"Pancake, Waffle & Baking Mixes",8,stonewall,0.1394050608776118
-5,"Pancake, Waffle & Baking Mixes",9,family,0.12754300183835854
-5,"Pancake, Waffle & Baking Mixes",10,recipe,0.11519835709671986
+1,Food & Pet Products,1,br,2.98597
+1,Food & Pet Products,2,fat,0.119934
+1,Food & Pet Products,3,sugar,0.093363
+1,Food & Pet Products,4,mg,0.087462
+1,Food & Pet Products,5,organic,0.085748
+1,Food & Pet Products,6,water,0.083922
+1,Food & Pet Products,7,like,0.083834
+1,Food & Pet Products,8,product,0.081894
+1,Food & Pet Products,9,ingredient,0.07967
+1,Food & Pet Products,10,calorie,0.073486
+2,Chips & Snack Flavors,1,chip,1.663563
+2,Chips & Snack Flavors,2,bag,0.512009
+2,Chips & Snack Flavors,3,flavor,0.504255
+2,Chips & Snack Flavors,4,salt,0.463522
+2,Chips & Snack Flavors,5,potato,0.424289
+2,Chips & Snack Flavors,6,kettle,0.333978
+2,Chips & Snack Flavors,7,vinegar,0.307507
+2,Chips & Snack Flavors,8,great,0.288358
+2,Chips & Snack Flavors,9,like,0.235975
+2,Chips & Snack Flavors,10,calorie,0.230323
+3,Tea & Beverages,1,food,0.575993
+3,Tea & Beverages,2,product,0.555067
+3,Tea & Beverages,3,good,0.497822
+3,Tea & Beverages,4,love,0.487287
+3,Tea & Beverages,5,one,0.432945
+3,Tea & Beverages,6,great,0.421115
+3,Tea & Beverages,7,dog,0.419764
+3,Tea & Beverages,8,like,0.405227
+3,Tea & Beverages,9,taste,0.353569
+3,Tea & Beverages,10,mix,0.342769
+4,Coffee Taste & Strength,1,tea,2.274622
+4,Coffee Taste & Strength,2,green,0.498699
+4,Coffee Taste & Strength,3,drink,0.303928
+4,Coffee Taste & Strength,4,iced,0.283294
+4,Coffee Taste & Strength,5,water,0.251309
+4,Coffee Taste & Strength,6,like,0.214515
+4,Coffee Taste & Strength,7,taste,0.203947
+4,Coffee Taste & Strength,8,packet,0.179072
+4,Coffee Taste & Strength,9,flavor,0.177251
+4,Coffee Taste & Strength,10,stash,0.157749
+5,"Pancake, Waffle & Baking Mixes",1,coffee,1.528181
+5,"Pancake, Waffle & Baking Mixes",2,cup,0.504368
+5,"Pancake, Waffle & Baking Mixes",3,taste,0.253973
+5,"Pancake, Waffle & Baking Mixes",4,bold,0.245441
+5,"Pancake, Waffle & Baking Mixes",5,like,0.233184
+5,"Pancake, Waffle & Baking Mixes",6,strong,0.232753
+5,"Pancake, Waffle & Baking Mixes",7,one,0.20834
+5,"Pancake, Waffle & Baking Mixes",8,dark,0.202842
+5,"Pancake, Waffle & Baking Mixes",9,smooth,0.200618
+5,"Pancake, Waffle & Baking Mixes",10,flavor,0.196426
